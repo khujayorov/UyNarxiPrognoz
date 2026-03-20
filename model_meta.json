@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "area",
+    "bedrooms",
+    "age",
+    "location_score",
+    "price"
+  ],
+  "target": "price"
+}
